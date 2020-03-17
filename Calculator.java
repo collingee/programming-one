@@ -1,3 +1,5 @@
+//Collin Gee - Lab 06 Software Engineering File Upload
+
 import java.util.Scanner;
 
 public class Calculator {
